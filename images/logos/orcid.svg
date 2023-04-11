@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 512 512"
+   style="enable-background:new 0 0 512 512;"
+   xml:space="preserve"
+   sodipodi:docname="orcid.svg"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs402">
+	
+</defs><sodipodi:namedview
+   id="namedview400"
+   pagecolor="#bdc1c3"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.88235294"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.4609375"
+   inkscape:cx="-218.0339"
+   inkscape:cy="273.35593"
+   inkscape:window-width="1512"
+   inkscape:window-height="822"
+   inkscape:window-x="0"
+   inkscape:window-y="38"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="g1703" />
+<g
+   inkscape:groupmode="layer"
+   id="g1431"
+   inkscape:label="white circle"
+   style="display:inline"><circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.00377953"
+     id="circle1429"
+     cx="257.35593"
+     cy="255.45764"
+     r="254.91525" /></g><path
+   d="M 256,0 C 114.8,0 0,114.8 0,256 0,397.2 114.8,512 256,512 397.2,512 512,397.2 512,256 512,114.8 397.2,0 256,0 Z m 0,39.4 c 119.9,0 216.6,96.8 216.6,216.6 0,119.8 -96.7,216.6 -216.6,216.6 C 136.1,472.6 39.4,375.9 39.4,256 39.4,136.1 136.1,39.4 256,39.4 Z m -98.5,59.1 c -10.9,0 -19.7,8.8 -19.7,19.7 0,10.9 8.8,19.7 19.7,19.7 10.9,0 19.7,-8.8 19.7,-19.7 0,-10.9 -8.8,-19.7 -19.7,-19.7 z m -19.7,59 v 216.6 h 39.4 V 157.5 Z m 78.8,0 v 19.7 196.9 h 88.6 c 59.6,0 108.3,-48.7 108.3,-108.3 0,-59.6 -48.7,-108.3 -108.3,-108.3 z m 39.4,39.4 h 49.2 c 38.3,0 68.9,30.6 68.9,68.9 0,38.3 -30.6,68.9 -68.9,68.9 H 256 Z"
+   id="path395"
+   style="display:inline;fill:#000000;fill-opacity:1" /><g
+   inkscape:groupmode="layer"
+   id="g1703"
+   inkscape:label="white circle border"
+   style="display:inline;fill:#ae0000;fill-opacity:0;stroke:#ffffff;stroke-width:49.10157002;stroke-dasharray:none;stroke-opacity:1"
+   transform="matrix(0.91646764,0,0,0.91646764,16.717887,22.254234)"><circle
+     style="opacity:1;fill:#ae0000;fill-opacity:0;stroke:#ffffff;stroke-width:49.1016;stroke-dasharray:none;stroke-opacity:1"
+     id="circle1701"
+     cx="261.72049"
+     cy="255.45764"
+     r="254.91525" /></g>
+</svg>

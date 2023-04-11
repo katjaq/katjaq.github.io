@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="900"
+   inkscape:export-xdpi="900"
+   inkscape:export-filename="/Users/katja/abstracts/materials/logos/logo_pasteur_white-on-black.png"
+   sodipodi:docname="logo_pasteur_white-on-black.svg"
+   inkscape:version="1.1-dev (bc69992, 2020-04-15)"
+   id="svg945"
+   version="1.1"
+   viewBox="0 0 3.0723126 2.7326462"
+   height="2.7326462mm"
+   width="3.0723126mm">
+  <defs
+     id="defs939" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:window-height="977"
+     inkscape:window-width="1252"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-0.12724701"
+     inkscape:cx="13.502773"
+     inkscape:zoom="15.839192"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#979999"
+     id="base" />
+  <metadata
+     id="metadata942">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-43.065034,-51.550344)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g6141"
+       transform="matrix(0.65212262,0,0,0.65212262,-6.9189681,19.382167)">
+      <path
+         id="path157"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 79.585267,50.437732 -0.0012,1.145981 c 0.592571,0 0.980937,-0.522286 0.980937,-1.088996 0,-0.310878 -0.140107,-0.74644 -0.526349,-0.74644 -0.358443,0 -0.45311,0.40887 -0.453387,0.689455"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path159"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 77.685088,53.344893 c 0.15193,0.122929 0.272919,0.173911 0.66027,0.173911 h 0.134011 c 0.357519,0 0.4484,-0.103257 0.4484,-0.355949 0,-0.232189 -0.0014,-1.136007 -0.0014,-1.136007 -0.778119,-0.219628 -1.295971,-0.627574 -1.766906,-1.078837 0.08284,-0.09836 0.211962,-0.163012 0.322792,-0.163012 0.425125,0 0.820234,0.530229 1.423518,0.70691 l 4.43e-4,-0.684837 c 5.17e-4,-0.606978 0.380424,-1.241295 1.046604,-1.241295 0.06834,0 0.132904,0.0063 0.19386,0.01875 -0.311894,-0.163567 -0.667196,-0.25611 -1.043648,-0.25611 -1.245913,0 -2.256036,1.010123 -2.256036,2.256405 0,0.70885 0.326948,1.345014 0.838059,1.760072"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path161"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 80.706035,49.996536 c 0.08054,0.147866 0.12376,0.323254 0.12376,0.509818 0,0.707649 -0.508986,1.4044 -1.228088,1.51837 l -1.48e-4,1.49408 h 0.261005 c 0.393354,0 0.535678,-0.07767 0.661747,-0.180284 0.509633,-0.414042 0.835104,-1.046049 0.835104,-1.753699 0,-0.619539 -0.24946,-1.180523 -0.653343,-1.588285"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path163"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 76.779146,50.66678 c 0.13863,0.118034 0.329073,0.121913 0.425772,0.0087 0.09642,-0.113047 0.06243,-0.300811 -0.07583,-0.418568 -0.138722,-0.118126 -0.329257,-0.122005 -0.426141,-0.0089 -0.09633,0.113416 -0.06234,0.300811 0.0762,0.418752"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
