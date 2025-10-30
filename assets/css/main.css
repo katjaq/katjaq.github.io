@@ -3877,7 +3877,9 @@ input, select, textarea {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				background: #fff;
+				/* background: #fff; */
+				background: #333;
+				/* background: rgba(0, 0, 0, 0); */
 				content: '';
 				display: block;
 				height: 2px;
